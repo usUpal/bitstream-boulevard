@@ -20,7 +20,7 @@ date: "2023-05-31"
 
 # Challenges and Future Directions
 - Discuss some of the challenges associated with developing and deploying large language models like GPT Assistance, such as bias, privacy concerns, and computational resources.
-- Describe some potential solutions to these challenges, such as better data collection methods, improved model architectures, and ethical guidelines for AI development.
+- Describe some potential solutions to these challenges, such as better data collection methods, improved model architectures, and ethical guidelines for Artificial Inteligence development.
 - Highlight some promising research directions in natural language processing that could further enhance the capabilities of large language models like GPT Assistance.
 
 # Conclusion:
