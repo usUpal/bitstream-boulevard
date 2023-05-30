@@ -13,5 +13,5 @@ module.exports = {
     linkedin: 'https://linkedin.com/in/udyan-upal',
   },
   pathPrefix: '/devblog',
-  siteUrl: 'https://usupal.vercel.app/',
+  siteUrl: 'https://bitstream-boulevard.vercel.app/',
 };

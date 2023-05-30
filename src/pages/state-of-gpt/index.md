@@ -1,6 +1,6 @@
 ---
 title: The State of GPT and the Growing Ecosystem of Large Language Models
-date: 31-05-2023
+date: "2023-05-31"
 ---
 
 # Introduction:
