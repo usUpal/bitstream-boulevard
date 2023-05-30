@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Bitstream Boulevard', // Required
-  author: 'UdYaN UpAL', // Required
-  description: 'Full-stack Web Developer',
+  author: 'Upal\'s Bitstream Boulevard', // Required
+  description: 'Software Engineer',
   primaryColor: '#3498db', // Required
   showHeaderImage: true,
   showShareButtons: true,
@@ -13,5 +13,5 @@ module.exports = {
     linkedin: 'https://linkedin.com/in/udyan-upal',
   },
   pathPrefix: '/devblog',
-  siteUrl: '.',
+  siteUrl: 'https://usupal.vercel.app/',
 };
