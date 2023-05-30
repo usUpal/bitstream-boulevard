@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Dev Blog', // Required
+  title: 'Bitstream Boulevard', // Required
   author: 'UdYaN UpAL', // Required
   description: 'Full-stack Web Developer',
   primaryColor: '#3498db', // Required
@@ -13,5 +13,5 @@ module.exports = {
     linkedin: 'https://linkedin.com/in/udyan-upal',
   },
   pathPrefix: '/devblog',
-  siteUrl: 'https://ryanfitzgerald.github.io/devblog/',
+  siteUrl: '.',
 };
